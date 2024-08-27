@@ -1,1 +1,2 @@
 # Leader-Finding-System
+This C++ project implements a "Leader Finding System" using the Josephus problem, which is a well-known theoretical problem in mathematics and computer science. The program simulates a queue of people and eliminates them in a specific order until only one person (the leader) remains.This C++ program simulates a leader selection process using a circular queue structure, inspired by the Josephus problem. The program leverages classes,functions, pointers, and file handling to create a efficient solution.
